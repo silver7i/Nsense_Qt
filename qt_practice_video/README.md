@@ -14,5 +14,5 @@
 * 3. stop / 검출된 얼굴이 저장됨
 * 4. Face View / 검출되어 저장된 얼굴의 face id 와 검출된 얼굴을 따로 보여줌
 ```
+<img width="1047" alt="Qt 얼굴검출 작업" src="https://github.com/silver7i/Nsense_Qt/assets/77370836/032343e3-48ec-4370-8e44-929fdc661396">
 
-<img width="1047" alt="스크린샷 2023-09-07 오후 2 00 30" src="https://github.com/silver7i/Nsense/assets/77370836/fc8cc89c-a442-4c2b-85d6-db4e08d16e05">
